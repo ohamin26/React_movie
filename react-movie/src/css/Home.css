@@ -25,14 +25,15 @@ body {
     height: 470px;
     position: absolute;
     top: 5%;
-    left: 40%;
+    left: 45%;
     transform: translate(-40%);
     transform-style: preserve-3d;
     animation: ani linear 30s infinite;
 }
 .movies a {
     text-decoration: none;
-    color: aliceblue;
+    color: #a89c9c;
+    text-align: center;
 }
 .movies_wrap > :nth-child(1) {
     transform: rotateY(0deg) translateZ(-955px);
